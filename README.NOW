@@ -1,0 +1,34 @@
+*******************************************************************************
+*									      *
+*                        KURZANLEITUNG ZUM FAHRSIMULATOR		      *
+*                                                                             *
+*	                   (c) 1995 by Lutz Gro·hennig			      *
+*									      *										      *
+*******************************************************************************
+
+SYSTEM-ANFORDERUNGEN :
+
+		Min. 386SX-16 mit Copro. + VGA
+
+
+HAUPTMENö :
+
+		Tasten 1-4 zur Fahrzeugwahl
+		Taste  Q   zum Programmende
+
+
+IN DER SIMULATION :
+
+		Taste  s   Sound an/aus (PC-SINGLE-SPEAKER)
+		Taste  i   Informationen
+		Taste  f   Normale oder breite Linien
+		Taste  4   Fahrzeug auf der Stra·e verschieben
+		Taste  6                 -"-
+		Taste ESC  Simulationsteil beenden
+
+		Steuerung Åber Maus
+
+		Linke Taste  = Gas geben
+		Rechte Taste = Bremsen
+
+********************************  END OF TEXT  *********************************
