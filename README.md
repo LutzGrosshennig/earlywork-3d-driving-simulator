@@ -1,7 +1,7 @@
 # earlywork-3d-driving-simulator
 
-This is probably my very first C++ project written for an PC.
-It was developed as an exercise while I studied CS between the 12-DEC-1994 and the 12-JAN-1995 (one Month)
+This is was I consider my first C++ project written for an 386SX PC between December 1994 and January 1995!
+It was developed as an one month exercise while I studied CS back in those days.
 
 # System requirements:
 
@@ -10,7 +10,9 @@ It was developed as an exercise while I studied CS between the 12-DEC-1994 and t
 		- VGA
 		
 		It will work just fine in DosBox!
-
+		
+		In order to open and/or compile the project you need the Borland C++ 3.3 Compiler suite.
+		
 # Usage instructions
 
 Main menu:
