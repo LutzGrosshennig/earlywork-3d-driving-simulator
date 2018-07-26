@@ -3,6 +3,8 @@
 This is was I consider my first C++ project written for an 386SX PC between December 1994 and January 1995!
 It was developed as an one month exercise while I studied CS back in those days.
 
+You can watch it on Youtube right here: https://youtu.be/RFp7cg50_oo
+
 # System requirements:
 
 		- MS Dos 5.0 or higher
