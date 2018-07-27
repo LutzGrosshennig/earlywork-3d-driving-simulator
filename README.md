@@ -3,7 +3,8 @@
 This is was I consider my first C++ project written for an 386SX PC between December 1994 and January 1995!
 It was developed as an one month exercise while I studied CS back in those days.
 
-You can watch it on Youtube right here: 
+You can watch it on Youtube right here:
+
 [![Preview](https://img.youtube.com/vi/RFp7cg50_oo/0.jpg)](https://www.youtube.com/watch?v=RFp7cg50_oo)
 
 # System requirements:
