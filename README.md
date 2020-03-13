@@ -21,11 +21,13 @@ You can watch it a preview on Youtube right here:
 		
 # Usage instructions
 
-Main menu:
+Main menu
+
 		Use the keys '1'-'4' to choose your vehicle type.
 		Use the 'Q' to quit the program.
 
 Simulation mode
+
 		* Key  's':  Toogles the PC speaker sound
 		* Key  'i':  Toggles the information overlay
 		* Key  'f':  Toggles the line thickness mode
