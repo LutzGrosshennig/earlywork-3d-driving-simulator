@@ -1,7 +1,7 @@
 # earlywork-3d-driving-simulator
 
 This is was I consider my first C++ project written for an 386SX PC between December 1994 and January 1995!
-It was developed as an one month exercise while I studied CS back in those days. Prof. Dr. Ulrich Breymann teached me how to programm in C++ and turned the curse into the book "C++ Eine Einführung". 
+It was developed as an one month exercise while I studied CS back in those days. Prof. Dr. Ulrich Breymann teached me how to programm in C++. 
 
 I may add that it got the best possible score for this excerise.
 
