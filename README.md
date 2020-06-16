@@ -13,7 +13,7 @@ You can watch a preview on Youtube right here:
 
 		- MS Dos 5.0 or higher
 		- Intel 386SX 16Mhz with x87 Coprocessor 
-		- VGA
+		- VGA card
 		
 		Note: It will work just fine in DosBox!
 		
@@ -39,3 +39,7 @@ Simulation mode
 
 		* Left mouse button = accelerate
 		* Right mouse button = apply brakes
+
+# Release
+
+There is a prebuild binary in the release section in case you just want to try it out.
